@@ -1,0 +1,12 @@
+{
+    "name": "ivy/lara_0804_p",
+    "authors": [
+        {
+            "name": "Ivy Lin",
+            "email": "a0981792089@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
